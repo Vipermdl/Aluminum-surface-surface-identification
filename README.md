@@ -1,4 +1,4 @@
-###TianChi   2018广东工业智造大数据创新大赛——智能算法赛（初赛代码）
+### TianChi   2018广东工业智造大数据创新大赛——智能算法赛（初赛代码）
 
 #### 感谢大神Herbert95 原始baseline代码[分享](https://github.com/Herbert95/tianchi_lvcai)。
 
